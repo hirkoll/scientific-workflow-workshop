@@ -1,5 +1,6 @@
 Contact: Thomas Johnson thjohnson@microsoft.com
 this is the first branch I am committing
+this is another branch we are testing
 # Scientific workflow GitHub workshop
 
 This synthetic repository supports two workshops:
